@@ -1,0 +1,1 @@
+milk;4.99;toothpaste;2.75,100.0

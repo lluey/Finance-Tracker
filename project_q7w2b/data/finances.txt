@@ -1,0 +1,1 @@
+toothpaste;3.95;mouse;99.82;popcorn;3.96;hashbrown;2.0;scrunchie;9.99,80.28
